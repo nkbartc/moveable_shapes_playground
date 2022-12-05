@@ -1,0 +1,18 @@
+.selected{
+    border:1px dotted black;
+
+}
+.fFutOK{
+    border:1px dotted black !important;
+}
+.resizable-handler{
+   color:black !important;
+}
+#canvas_body{
+    overflow:overlay;
+    position: relative;
+    min-height: 500px;
+}
+/* .moveable-control-box{
+    position: fixed !important;
+} */

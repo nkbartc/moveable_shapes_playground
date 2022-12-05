@@ -1,0 +1,21 @@
+#toolbar{
+    margin-bottom: 10px !important;
+    padding: 5px;
+}
+
+body{
+    min-width: 600px;
+}
+
+#left_horizontal_bar{
+    padding: 5px;
+    height: 100%;
+}
+
+#right_horizontal_bar{
+    padding: 5px;
+    margin-left:14em ;
+}
+.btn{
+    margin: 2px;
+}
